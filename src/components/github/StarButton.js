@@ -5,11 +5,11 @@ const StarButton = () => (
     <small>Leave a star on Github if this repository was useful :)</small>
     <a
       className="github-button"
-      href="https://github.com/jeffersonRibeiro/react-shopping-cart"
+      href="https://github.com/ronit123321"
       data-icon="octicon-star"
       data-size="large"
       data-show-count="true"
-      aria-label="Star jeffersonRibeiro/react-shopping-cart on GitHub"
+      aria-label="Star on GitHub"
     >
       Star
     </a>

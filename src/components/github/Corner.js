@@ -4,9 +4,9 @@ import './style.css';
 
 export default () => (
   <a
-    href="https://github.com/jeffersonRibeiro/react-shopping-cart"
+    href="https://github.com/ronit123321"
     className="github-corner"
-    aria-label="View source on Github"
+    aria-label="View on Github"
   >
     <svg
       width="80"
